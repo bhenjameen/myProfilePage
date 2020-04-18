@@ -120,7 +120,7 @@ p {
 /*Main body*/
 #main {
     padding-top: 5%;
-    font-size: 11pt;
+    font-size: 10pt;
 }
 
 .maincol {
@@ -172,7 +172,7 @@ article #mainCol {
     text-align: left;
     padding-bottom: 5pt;
     color: black;
-    margin-left: 14px;
+    margin-left: 12.5px;
 }
 
 
