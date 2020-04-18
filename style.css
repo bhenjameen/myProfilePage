@@ -172,7 +172,7 @@ article #mainCol {
     text-align: left;
     padding-bottom: 5pt;
     color: black;
-    margin-left: 2.5%;
+    margin-left: 2.4%;
 }
 
 
@@ -246,10 +246,10 @@ textarea {
 #footer {
     padding-top: 10%;
     position: absolute;
-    bottom: -139%;
 }
 
 #footer img {
+    bottom: -139%;
     bottom: 5%;
     width: 1.5%;
     background-color: #555555;
