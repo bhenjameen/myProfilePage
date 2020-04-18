@@ -172,7 +172,7 @@ article #mainCol {
     text-align: left;
     padding-bottom: 5pt;
     color: black;
-    margin-left: 15px;
+    margin-left: 17px;
 }
 
 
@@ -244,7 +244,7 @@ textarea {
 
 /*Footer*/
 #footer {
-    padding-top: 10%;
+    padding-top: 7%;
 }
 
 #footer img {
