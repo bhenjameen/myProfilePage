@@ -172,7 +172,7 @@ article #mainCol {
     text-align: left;
     padding-bottom: 5pt;
     color: black;
-    margin-left: 12.5px;
+    margin-left: 15px;
 }
 
 
@@ -262,7 +262,7 @@ textarea {
 
 .copyright {
     position: absolute;
-    top: 251%;
+    top: 259%;
     right: 2%;
     font-size: 9pt;
     text-align: right;
