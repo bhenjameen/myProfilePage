@@ -131,14 +131,11 @@ p {
     background-color: white;
 }
 
-.maincol #summary {
+#summary {
     margin-left: -20px;
     background: #35424a;
     color: #ffffff;
     padding: 2%;
-}
-
-#summary {
     float: left;
     width: 65%;
 }
@@ -147,11 +144,6 @@ p {
     color: white;
     text-align: left;
     padding-bottom: 5pt;
-}
-
-article #mainCol {
-    float: left;
-    width: 65%;
 }
 
 .aboutMe {
@@ -413,19 +405,17 @@ textarea {
         background-color: white;
     }
 
-    #summary {}
-
-    #summary h1 {
-        color: white;
-        text-align: left;
-    }
-
-    #mainCol article {
+    #summary {
         margin-bottom: 10%;
         background: #35424a;
         color: #ffffff;
         float: left;
         width: 85%;
+    }
+
+    #summary h1 {
+        color: white;
+        text-align: left;
     }
 
     .aboutMe {
@@ -525,8 +515,8 @@ textarea {
     }
 
     #footer img {
-        width: 2.5%;
-        background-color: #555555;
+        width: 3%;
+        background-color: #faefef;
         padding: 3px 3px;
         margin: 2px;
     }
