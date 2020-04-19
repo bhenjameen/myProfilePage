@@ -311,7 +311,7 @@ textarea {
         background-image: linear-gradient(#dab046 20%, #d73b25 20%, #d73b25 40%, #c71b25 40%, #c71b25 40%, #961a39 60%, #961a39 80%, #601035 80%);
         margin: auto;
         position: absolute;
-        width: 94%;
+        width: 94.5%;
         height: 50px;
     }
 
@@ -319,7 +319,7 @@ textarea {
         content: "";
         position: absolute;
         background: white;
-        left: 85%;
+        left: 84%;
         margin-top: -67.5px;
         margin-left: -270px;
         padding-left: 20px;
@@ -416,6 +416,7 @@ textarea {
         margin-right: 7%;
         padding-bottom: 10%;
         margin-bottom: 10%;
+        text-align: justify;
         float: left;
         width: 110%;
     }
