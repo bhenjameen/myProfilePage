@@ -137,7 +137,7 @@ p {
     color: #ffffff;
     padding: 2%;
     float: left;
-    width: 65%;
+    width: 50%;
 }
 
 #summary h1 {
@@ -410,7 +410,7 @@ textarea {
         background: #35424a;
         color: #ffffff;
         float: left;
-        width: 85%;
+        width: 100%;
     }
 
     #summary h1 {
