@@ -65,7 +65,7 @@ p {
     padding: 25px;
     padding-top: 0;
     padding-bottom: 0;
-    left: 32%;
+    left: 30%;
     top: 13.2%;
     background: white;
     box-shadow: -20px 0 35px -25px black, 20px 0 35px black;
@@ -403,7 +403,7 @@ textarea {
     }
 
     .maincol {
-        margin-left: -30%;
+        margin-left: -40%;
         width: 90%;
         padding: 5%;
         margin: auto;
@@ -411,7 +411,7 @@ textarea {
     }
 
     #summary {
-        margin-left: -10%;
+        margin-left: -5%;
         background: #35424a;
         color: #ffffff;
         padding-left: 3%;
