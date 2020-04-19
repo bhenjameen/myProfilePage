@@ -413,20 +413,17 @@ textarea {
         background-color: white;
     }
 
-    #summary {
-        padding-bottom: 10%;
-        background: #35424a;
-        color: #ffffff;
-        float: left;
-        width: 100%;
-    }
+    #summary {}
 
     #summary h1 {
         color: white;
         text-align: left;
     }
 
-    article #mainCol {
+    #mainCol article {
+        margin-bottom: 10%;
+        background: #35424a;
+        color: #ffffff;
         float: left;
         width: 85%;
     }
