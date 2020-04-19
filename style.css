@@ -407,14 +407,14 @@ textarea {
     }
 
     .maincol {
-        width: 93%;
+        width: 95%;
         padding: 5%;
         margin: auto;
         background-color: white;
     }
 
     .maincol #summary {
-        margin-left: -23px;
+        margin-left: -25px;
         margin-bottom: 5%;
         background: #35424a;
         color: #ffffff;
