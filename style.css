@@ -319,13 +319,13 @@ textarea {
         content: "";
         position: absolute;
         background: white;
-        left: 29%;
+        left: 35%;
         margin-top: -67.5px;
         margin-left: -270px;
         padding-left: 20px;
         border-radius: 5px;
         width: 300px;
-        height: 150px;
+        height: 140px;
         z-index: -1;
     }
 
@@ -418,7 +418,7 @@ textarea {
         padding-bottom: 10%;
         margin-bottom: 10%;
         float: left;
-        width: 88%;
+        width: 92%;
     }
 
     #summary h1 {
