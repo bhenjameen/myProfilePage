@@ -132,7 +132,7 @@ p {
 }
 
 #summary {
-    margin-right: 20%;
+    margin-right: 10%;
     background: #35424a;
     color: #ffffff;
     padding: 2%;
@@ -399,7 +399,7 @@ textarea {
     }
 
     .maincol {
-        margin-left: -20%;
+        margin-left: -5%;
         width: 85%;
         padding: 5%;
         background-color: white;
