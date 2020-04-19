@@ -51,6 +51,7 @@ p {
     left: 50%;
     margin-top: -67.5px;
     margin-left: -270px;
+    padding-left: 20px;
     border-radius: 5px;
     width: 520px;
     height: 275px;
@@ -136,7 +137,7 @@ p {
     color: #ffffff;
     padding: 2%;
     float: left;
-    width: 80%;
+    width: 65%;
 }
 
 #summary h1 {
