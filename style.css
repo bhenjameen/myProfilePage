@@ -407,7 +407,7 @@ textarea {
     }
 
     .maincol {
-        width: 97%;
+        width: 94%;
         padding: 5%;
         margin: auto;
         background-color: white;
@@ -422,7 +422,7 @@ textarea {
         padding-right: 30%;
         padding-bottom: 7%;
         float: left;
-        width: 99%;
+        width: 100%;
     }
 
     #summary h1 {
