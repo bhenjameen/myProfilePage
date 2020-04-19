@@ -414,10 +414,9 @@ textarea {
     }
 
     #summary {
-        margin-bottom: 5%;
+        margin-bottom: 10%;
         background: #35424a;
         color: #ffffff;
-        padding-bottom: 7%;
         float: left;
         width: 99%;
     }
