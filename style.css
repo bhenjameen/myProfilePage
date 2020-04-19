@@ -65,8 +65,8 @@ p {
     padding: 25px;
     padding-top: 0;
     padding-bottom: 0;
-    left: 31.4%;
-    top: 11.7%;
+    left: 28.5%;
+    top: 13%;
     background: white;
     box-shadow: -20px 0 35px -25px black, 20px 0 35px black;
     z-index: 5;
@@ -413,7 +413,7 @@ textarea {
         background-color: white;
     }
 
-    .maincol #summary {
+    #summary {
         margin-left: -20px;
         background: #35424a;
         color: #ffffff;
@@ -421,17 +421,12 @@ textarea {
         padding-right: 5%;
         padding-bottom: 7%;
         float: left;
-        width: 98%;
+        width: 85%;
     }
 
     #summary h1 {
         color: white;
         text-align: left;
-    }
-
-    article #mainCol {
-        float: left;
-        width: 85%;
     }
 
     .aboutMe {
