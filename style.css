@@ -51,7 +51,7 @@ p {
     left: 50%;
     margin-top: -67.5px;
     margin-left: -270px;
-    padding-left: 20px;
+    padding-left: 10px;
     border-radius: 5px;
     width: 520px;
     height: 275px;
@@ -137,7 +137,7 @@ p {
     color: #ffffff;
     padding: 2%;
     float: left;
-    width: 65%;
+    width: 72%;
 }
 
 #summary h1 {
@@ -410,7 +410,7 @@ textarea {
         background: #35424a;
         color: #ffffff;
         float: left;
-        width: 85%;
+        width: 93%;
     }
 
     #summary h1 {
