@@ -132,7 +132,7 @@ p {
 }
 
 #summary {
-    margin-left: -20px;
+
     background: #35424a;
     color: #ffffff;
     padding: 2%;
@@ -170,7 +170,7 @@ p {
 
 #sidebar {
     float: right;
-    width: 30%;
+    width: 40%;
     margin-top: 10px;
 }
 
