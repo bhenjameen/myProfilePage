@@ -39,7 +39,7 @@ p {
     background: white;
     background-image: linear-gradient(#dab046 20%, #d73b25 20%, #d73b25 40%, #c71b25 40%, #c71b25 40%, #961a39 60%, #961a39 80%, #601035 80%);
     margin: auto;
-    width: 100%;
+    width: 95%;
     height: 150px;
     margin-bottom: 10%;
 }
@@ -403,19 +403,19 @@ textarea {
     }
 
     .maincol {
-        margin-left: -40%;
-        width: 85%;
+
+        width: 87%;
         padding: 5%;
         margin: auto;
         background-color: white;
     }
 
     #summary {
-        margin-left: -5%;
+        margin-left: -15%;
         background: #35424a;
         color: #ffffff;
-        padding-left: 15%;
-        padding-right: 15%;
+        padding-left: -15%;
+        padding-right: 7%;
         padding-bottom: 7%;
         float: left;
         width: 85%;
