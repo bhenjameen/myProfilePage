@@ -418,8 +418,8 @@ textarea {
         margin-bottom: 5%;
         background: #35424a;
         color: #ffffff;
-        padding-left: 4%;
-        padding-right: 4%;
+        padding-left: -4%;
+        padding-right: -4%;
         padding-bottom: 7%;
         float: left;
         width: 100%;
