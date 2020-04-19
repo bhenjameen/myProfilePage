@@ -319,7 +319,7 @@ textarea {
         content: "";
         position: absolute;
         background: white;
-        left: 83.5%;
+        left: 83%;
         margin-top: -67.5px;
         margin-left: -270px;
         padding-left: 20px;
@@ -418,7 +418,8 @@ textarea {
         margin-bottom: 10%;
         text-align: justify;
         float: left;
-        width: 105%;
+        padding-right: 10%;
+        width: 110%;
     }
 
     #summary h1 {
