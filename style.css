@@ -319,7 +319,7 @@ textarea {
         content: "";
         position: absolute;
         background: white;
-        left: 80%;
+        left: 29%;
         margin-top: -67.5px;
         margin-left: -270px;
         padding-left: 20px;
@@ -414,8 +414,9 @@ textarea {
         background: #35424a;
         color: #ffffff;
         padding-left: -15%;
-        margin-right: 18%;
+        margin-right: 7%;
         padding-bottom: 7%;
+        margin-bottom: 10%;
         float: left;
         width: 85%;
     }
