@@ -414,15 +414,15 @@ textarea {
     }
 
     .maincol #summary {
-        margin-left: -20px;
+        margin-left: -27px;
         margin-bottom: 5%;
         background: #35424a;
         color: #ffffff;
-        padding-left: 3%;
+        padding-left: 7%;
         padding-right: 30%;
         padding-bottom: 7%;
         float: left;
-        width: 92%;
+        width: 100%;
     }
 
     #summary h1 {
