@@ -443,7 +443,7 @@ textarea {
         text-align: left;
         padding-bottom: 5pt;
         color: black;
-        margin-left: 19%;
+        margin-left: 20.5%;
     }
 
     #sidebar {
@@ -509,6 +509,7 @@ textarea {
         outline: none;
         margin: 0;
         font-weight: bold;
+        width: 30%;
     }
 
     .submit:hover {
@@ -519,7 +520,7 @@ textarea {
     #footer {
         padding-top: 10%;
         text-align: right;
-        margin-right: 5%;
+        margin-right: 3%;
     }
 
     #footer img {
@@ -535,7 +536,7 @@ textarea {
     }
 
     .copyright {
-        margin-right: 5%;
+        margin-right: 3%;
         padding-top: 1%;
         font-size: 7pt;
         text-align: right;
