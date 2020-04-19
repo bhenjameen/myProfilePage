@@ -319,7 +319,7 @@ textarea {
         content: "";
         position: absolute;
         background: white;
-        left: 35%;
+        left: 50%;
         margin-top: -67.5px;
         margin-left: -270px;
         padding-left: 20px;
@@ -418,7 +418,7 @@ textarea {
         padding-bottom: 10%;
         margin-bottom: 10%;
         float: left;
-        width: 92%;
+        width: 100%;
     }
 
     #summary h1 {
@@ -443,7 +443,7 @@ textarea {
         text-align: left;
         padding-bottom: 5pt;
         color: black;
-        margin-left: 18.5%;
+        margin-left: 19%;
     }
 
     #sidebar {
@@ -519,7 +519,7 @@ textarea {
     #footer {
         padding-top: 10%;
         text-align: right;
-        margin-right: 10%;
+        margin-right: 5%;
     }
 
     #footer img {
@@ -535,7 +535,7 @@ textarea {
     }
 
     .copyright {
-        margin-right: 10%;
+        margin-right: 5%;
         padding-top: 1%;
         font-size: 7pt;
         text-align: right;
